@@ -1,3 +1,5 @@
+
+
 public class Main {
     public static void main(String[] args) {
         task1();
@@ -60,14 +62,14 @@ public class Main {
         System.out.println(box);
         box =box + 4;
         System.out.println(box);
-}
+    }
     public static void  tasck6 () {
         System.out.println("задача 6");
         var boxer = 78.2;
         var boxer2 = 82.7;
-       System.out.println(boxer2 + boxer);
-       System.out.println(boxer2 - boxer);
-       System.out.println(boxer2 % boxer);
+        System.out.println(boxer2 + boxer);
+        System.out.println(boxer2 - boxer);
+        System.out.println(boxer2 % boxer);
 
 
     }
